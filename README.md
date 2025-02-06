@@ -1,3 +1,3 @@
-Coursework and project of every modules
+Coursework and project of data structure and algorithm
 
 BSc Computer Science, LSBU
